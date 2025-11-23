@@ -39,7 +39,7 @@ Folder Structure
 ----------------
 Recommended structure of the submitted folder:
 
-NAOChallenge_Project/
+NAO-Choreography-Planner/
 │
 ├── main.py
 ├── utils.py
@@ -86,6 +86,6 @@ How to Run (Virtual NAO)
 ------------------------
 1. Open Choregraphe and start the virtual robot.
 2. Note the robot IP (typically: `127.0.0.1`) and port (e.g., `9559`).
-3. From a terminal with Python3 go inside the nao_project directory and run:
+3. From a terminal with Python3 go inside the NAO-Choreography-Planner directory and run:
 
       python3 main.py [IP] [PORT]

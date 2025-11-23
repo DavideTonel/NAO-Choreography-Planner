@@ -35,7 +35,7 @@ mandatory positions while:
 
 ## 📁 Folder Structure
 ```
-NAOChallenge_Project/
+NAO-Choreography-Planner/
 │
 ├── main.py
 ├── utils.py
