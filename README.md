@@ -34,6 +34,7 @@ mandatory positions while:
 ---
 
 ## 📁 Folder Structure
+```
 NAOChallenge_Project/
 │
 ├── main.py
@@ -52,6 +53,7 @@ NAOChallenge_Project/
 │
 ├── Wii_Sports.mp3 # Background music
 └── README.md # This file
+```
 
 ---
 
